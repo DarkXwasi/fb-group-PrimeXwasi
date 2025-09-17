@@ -12,6 +12,6 @@
 ## Installation (Termux)
 ```bash
 pkg update -y && pkg install git python -y
-git clone https://github.com/yourusername/fb-group-bot.git
+git clone https://github.com/DarkXwasi/fb-group-PrimeXwasi
 cd fb-group-bot
 pip install -r requirements.txt
