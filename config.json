@@ -1,0 +1,24 @@
+{
+  "accounts": [
+    {
+      "uid": "100011112233445",
+      "cookie": "c_user=100011112233445; xs=abcd12345; fr=0xyz;",
+      "active": true
+    }
+  ],
+  "groups": [
+    {
+      "id": "123456789012345",
+      "comment_texts": [
+        "🔥 Amazing post bro!",
+        "💯 Well said!",
+        "👌 Keep it up!"
+      ],
+      "reactions": ["like", "love", "care", "haha", "wow"]
+    }
+  ],
+  "settings": {
+    "comment_delay": 20,
+    "reaction_delay": 15
+  }
+}
